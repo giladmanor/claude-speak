@@ -1,0 +1,5 @@
+{
+  "name": "speak",
+  "version": "0.1.0",
+  "description": "Reads Claude's replies aloud with the macOS say command, while speech is on"
+}

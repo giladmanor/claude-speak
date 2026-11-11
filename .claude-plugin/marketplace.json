@@ -1,0 +1,5 @@
+{
+  "name": "claude-speak",
+  "owner": { "name": "giladmanor" },
+  "plugins": [{ "name": "speak", "source": "./" }]
+}
